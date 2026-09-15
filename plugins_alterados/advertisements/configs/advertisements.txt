@@ -1,0 +1,44 @@
+// Advertisements 2.0
+// by Tsunami
+//
+// Types
+// -----
+// center: Center message
+// chat: Chat message
+// hint: Hint message
+// menu: Menu message
+// top: Top message
+//
+// Flags (optional)
+// -----
+// Accepts flags of admins that will not see the advertisement.
+// When omitted everyone will see the advertisement.
+// When left empty only admins will see the advertisement.
+
+"Advertisements"
+{
+    "1"
+    {
+        "chat"		        "{green}[DETRAN] {default}Digite {teamcolor}!hns {default}para aprender jogar o modo {darkred}Hide N' Seek."
+    }
+    "2"
+    {
+        "chat"		        "{green}[DETRAN] {default}Digite {teamcolor}!regras {default}para visualiza-las."
+    }
+    "3"
+    {
+        "chat"			"{green}[DETRAN] {default}O próximo mapa é {sm_nextmap} em {timeleft} minutos."
+    }
+    "4"
+    {
+        "chat"			"{green}[DETRAN] {lightgreen}Mapa Atual: {default}{currentmap}"
+    }
+    "5"
+    {
+        "chat"			"{green}[DETRAN] {lightgreen}Entre em nosso {purple}DISCORD{default}: https://discord.gg/EteyNcM"
+    }
+    "6"
+    {
+        "chat"			"{green}[DETRAN] {default}Digite {teamcolor}!bind {default}para aprender à ativar o pulo no scroll."
+    }
+}

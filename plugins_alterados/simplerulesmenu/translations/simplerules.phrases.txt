@@ -1,0 +1,20 @@
+"Phrases"
+{
+	"Showrules"
+	{
+		"#format"		"{1:N},{2:N}"
+		"en"			"{1} thinks that {2} need to read the rules."
+		"nl"			"{1} denkt dat {2} de regels moet lezen."
+	}
+	"Readrules"
+	{
+		"#format"		"{1:N}"
+		"en"			"{1} is reading the rules."
+		"nl"			"{1} is de regels aan het lezen."
+	}
+	"Readgood"
+	{
+		"en"			"Please read the rules carefully."
+		"nl"			"Lees de regels alsjeblieft zorgvuldig."
+	}
+}
